@@ -2,9 +2,7 @@
 ##### 1. 环境
 - Python：3.5
 - Tensorflow : 1.5.0
-
 ------
-
 ##### 2. 训练数据下载
 - 清华大学中文语料库（thchs30）[下载地址](http://www.openslr.org/18/)
 
@@ -19,4 +17,4 @@
 ------
 
 ##### 4. 测试效果
-![test-image](https://github.com/xxbb1234021/speech_recognition/blob/master/images/1.png) 
+![test-image](https://github.com/xxbb1234021/speech_recognition/blob/master/images/1.png)
