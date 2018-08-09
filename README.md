@@ -24,4 +24,4 @@
 ------
 
 ##### 4. 测试效果
-![test-image](https://github.com/xxbb1234021/speech_recognition/blob/master/images/1.png)
+![test-image](https://github.com/jx1100370217/ASR_dosmono/blob/master/images/1.png)
