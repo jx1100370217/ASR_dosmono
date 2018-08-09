@@ -1,20 +1,27 @@
-## ÖĞÎÄÓïÒôÊ¶±ğ
-##### 1. »·¾³
-- Python£º3.5
-- Tensorflow : 1.5.0
+## ä¸­æ–‡è¯­éŸ³è¯†åˆ«
+##### 1. ç¯å¢ƒ
+- Pythonï¼š3.6.5
+- Tensorflow : 1.8.0
 ------
-##### 2. ÑµÁ·Êı¾İÏÂÔØ
-- Çå»ª´óÑ§ÖĞÎÄÓïÁÏ¿â£¨thchs30£©[ÏÂÔØµØÖ·](http://www.openslr.org/18/)
-
-------
-
-##### 3. ÑµÁ·
-- ÅäÖÃconfÄ¿Â¼ÏÂµÄconf.iniÎÄ¼şÖĞµÄ¸÷Ïî
-- ÔÚÖÕ¶ËÔËĞĞ ```python train.py``` ¿ªÊ¼ÑµÁ·
-- ÔÚÖÕ¶ËÔËĞĞ ```python test.py``` ²âÊÔ
-- Ò²¿ÉÒÔÊ¹ÓÃPyCharm´ò¿ª
+##### 2. è®­ç»ƒæ•°æ®ä¸‹è½½
+- æ¸…åå¤§å­¦ä¸­æ–‡è¯­æ–™åº“ï¼ˆthchs30ï¼‰[ä¸‹è½½åœ°å€](http://www.openslr.org/18/)
 
 ------
 
-##### 4. ²âÊÔĞ§¹û
+##### 3. è®­ç»ƒ
+- é…ç½®conf.ini
+[FILE_DATA] 
+  2 wav_path=/home/speech.AI/github/speech_recognition/opt/wav/test/
+  3 label_file=/home/speech.AI/github/speech_recognition/opt/wav/test.word.txt
+  4 savedir=/home/speech.AI/github/speech_recognition/opt/tf/speechtest/
+  5 savefile=speech.cpkt
+  6 tensorboardfile=/home/speech.AI/github/speech_recognition/opt/tf/logs
+  
+- åœ¨ç»ˆç«¯è¿è¡Œ ```python train.py``` å¼€å§‹è®­ç»ƒ
+- åœ¨ç»ˆç«¯è¿è¡Œ ```python test.py``` æµ‹è¯•
+- ä¹Ÿå¯ä»¥ä½¿ç”¨PyCharmæ‰“å¼€
+
+------
+
+##### 4. æµ‹è¯•æ•ˆæœ
 ![test-image](https://github.com/xxbb1234021/speech_recognition/blob/master/images/1.png)
